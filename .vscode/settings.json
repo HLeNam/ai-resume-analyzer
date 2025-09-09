@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.css": "tailwindcss",
+        "*.scss": "tailwindcss",
+        "*.less": "tailwindcss"
+    },
+    "cSpell.words": ["Noto", "Segoe", "uplader"],
+    "explorer.compactFolders": false,
+    "editor.wordWrap": "on"
+}
